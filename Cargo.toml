@@ -3,5 +3,7 @@ name = "rocketeer"
 version = "0.1.0"
 authors = ["Joseph Lenton <josephlenton@gmail.com>"]
 edition = "2018"
+description = "Full stack framework for building web applications"
+license = "MIT"
 
 [dependencies]
